@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\PrintFizzAndBuzz\\Library\\Library.csproj",
+      "projectUniqueName": "C:\\src\\FizzAndBuzzSolution\\Library\\Library.csproj",
       "projectName": "Library",
-      "projectPath": "C:\\Users\\HP\\source\\repos\\PrintFizzAndBuzz\\Library\\Library.csproj",
+      "projectPath": "C:\\src\\FizzAndBuzzSolution\\Library\\Library.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\source\\repos\\PrintFizzAndBuzz\\Library\\obj\\",
+      "outputPath": "C:\\src\\FizzAndBuzzSolution\\Library\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
